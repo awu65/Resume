@@ -5,3 +5,7 @@
 ## Education
 - [Skidmore College](https://www.skidmore.edu) 
 - [Columbia University](http://e3b.columbia.edu/)
+
+Research Interests
+- Wildlife conservation
+- Invasive species management
